@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: 96626b2a390692144a55bb8c674a49db
+  - enabled: 1
+    path: Assets/Scenes/Downstairs.unity
+    guid: 4e58d8786409c464eac9e92a305c0a30
+  - enabled: 1
+    path: Assets/Scenes/Outdoors.unity
+    guid: d0e64ed16e371bd4a99fee02be04c754
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: c1fb885c57cd59348ae5f7ef7ff8adc5
+  - enabled: 1
+    path: Assets/Scenes/MainTransition.unity
+    guid: a5bf8e154f0fc3c41acbea1bcd74ddbf
+  - enabled: 1
+    path: Assets/Scenes/GAMEOVER.unity
+    guid: b5ad5fd40b679e145a91720a02982693
+  - enabled: 1
+    path: Assets/Scenes/BOSS.unity
+    guid: 594d0e82d19e35e44a6f26c7ec832b18
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 1dd22ff5d59780d4db3f00673777c962
+  - enabled: 1
+    path: Assets/Scenes/WIN.unity
+    guid: 18fc72acaab6b2243bbd73faab44e25c
+  m_configObjects: {}
