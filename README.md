@@ -7,9 +7,14 @@ Objective: To create a 2D game with interaction, ai, and scene transition
 Challenges: Figuring out the enemy ai and camera work
 
 ### Process:  
+<p>First I sketched out various themes that I wanted my game to be. I thought about a simple side scroller but I decided on a top down similar to Zelda. Once I decided on the type of game I wanted, I fleshed out the health, inventory, characters and dialogue system that is common with top down games. </p>  
+<p>Once the sprites were made, I began to code out the functionaloty of the enemies and player learning ai enemy models from BlackThornProd and how to utilize Unity's tiles. </p>
 
 ### What I learned: 
- 
+-How to encorporate music into a game
+-How to hand create 2d pixel animations
+-How to create enemy ai patterns
+-Implementing dialogue
 
 ## Images
 ### Title Card
@@ -49,9 +54,11 @@ Challenges: Figuring out the enemy ai and camera work
  - Enemy isn't shooting ----> Resolved march 9th 
  
 # How to use
-clone the repository
-Open the folder and click on the folder that says FinalBuilds
-Open the folder that corresponds to your operating system
+<ul>
+ <li>clone the repository</li> 
+ <li>Open the folder and click on the folder that says FinalBuilds</li> 
+ <li>Open the folder that corresponds to your operating system</li> 
+</ul>
 
 #### Supported Opperating Systems
 <ul>
