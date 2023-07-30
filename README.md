@@ -37,16 +37,16 @@ Challenges: Figuring out the enemy ai and camera work
 
 
 ### Bug Log
- The camera of the Bedroom level moves dont know why it happened as I was doing the pause menu
- Dagger pushing player back when button is hit
- Dagger isn't changing position as character changes position 
+ - The camera of the Bedroom level moves dont know why it happened as I was doing the pause menu
+ - Dagger pushing player back when button is hit
+ - Dagger isn't changing position as character changes position 
 
- Camera isnt being attached to the player when outside scene is activated --------> Resolved
- Sheild - removed component
- ? is not activating ----> removed component
- Player isn't taking damage ---> Resolved march 10th  
- Signs can not be read ---> Resolved march 10th 
- Enemy isn't shooting ----> Resolved march 9th 
+ - Camera isnt being attached to the player when outside scene is activated --------> Resolved
+ - Sheild - removed component
+ - ? is not activating ----> removed component
+ - Player isn't taking damage ---> Resolved march 10th  
+ - Signs can not be read ---> Resolved march 10th 
+ - Enemy isn't shooting ----> Resolved march 9th 
  
 # How to use
 clone the repository
