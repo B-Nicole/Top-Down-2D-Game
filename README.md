@@ -55,26 +55,26 @@ Open the folder that corresponds to your operating system
 
 #### Supported Opperating Systems
 <ul>
-<li>Linux</li>  
-<li>MacOS
-<li>Windows 32
-<li>Windows 
+ <li>Linux</li> 
+ <li>MacOS</li>
+ <li>Windows 32</li>
+ <li>Windows</li>
 </ul>
 
 ## Credits/ Resources
 ### Art
-Sprites Made using Piskel.com 
-Animations made using Piskel.com
+- Sprites Made using Piskel.com 
+- Animations made using Piskel.com
 
 ### Video Resources
-[Blackthornprod].(2017, Dec. 28). Shooting/Follow/Retreat Enemy AI with unity and C#- easy tutorial [Video File]. Retrieved from https://www.youtube.com/watch?v=_Z1t7MNk0c4&t=1s
-                 (2018, Aug. 27). How to make an inventory with unity & c# - beginner tutorial - 1/2 [Video File]. Retrieved from https://www.youtube.com/watch?v=DLAIYSMYy2g&t=308s
-[Comphonia].(2016, May. 12). How to Create Rolling End credits in unity with only unity UI(No code)[Video File]. Retrieved from https://www.youtube.com/watch?v=yDkZ5QIkfSc
-[Mister Taft Creates]. (2018, Dec. 3). Part30- Context clues: make a game like zelda using unity and c# [Video File]. Retrieved from https://www.youtube.com/watch?v=ct_5AvIk3vc&t=332s 
-                       (2018, Aug. 17). Part 4- Tilemaps with collisions: make a game like legend of zelda with unity and c# [Video file]. Retrieved from https://www.youtube.com/watch?v=zA8wa-L5xek 
-                       (2018, Aug. 30). Part 10 - Signs and Dialog: Make a game like the legend od zelda using unity and c# [Video File]. Retrieved from https://www.youtube.com/watch?v=1NCvpZDtTMI
-[Brackeys].(2017, Dec, 20). Pause menu in unity [Video File]. Retrieved from https://www.youtube.com/watch?v=JivuXdrIHK0&t=459s
-           (2017, May. 31). Introdution to audio in unity [Video File]. Retrieved from https://www.youtube.com/watch?v=6OT43pvUyfY&t=236s
+[Blackthornprod].(2017, Dec. 28). Shooting/Follow/Retreat Enemy AI with unity and C#- easy tutorial [Video File]. Retrieved from https://www.youtube.com/watch?v=_Z1t7MNk0c4&t=1s <br>
+                 (2018, Aug. 27). How to make an inventory with unity & c# - beginner tutorial - 1/2 [Video File]. Retrieved from https://www.youtube.com/watch?v=DLAIYSMYy2g&t=308s <br>
+[Comphonia].(2016, May. 12). How to Create Rolling End credits in unity with only unity UI(No code)[Video File]. Retrieved from https://www.youtube.com/watch?v=yDkZ5QIkfSc <br>
+[Mister Taft Creates]. (2018, Dec. 3). Part30- Context clues: make a game like zelda using unity and c# [Video File]. Retrieved from https://www.youtube.com/watch?v=ct_5AvIk3vc&t=332s <br>
+                       (2018, Aug. 17). Part 4- Tilemaps with collisions: make a game like legend of zelda with unity and c# [Video file]. Retrieved from https://www.youtube.com/watch?v=zA8wa-L5xek <br>
+                       (2018, Aug. 30). Part 10 - Signs and Dialog: Make a game like the legend od zelda using unity and c# [Video File]. Retrieved from https://www.youtube.com/watch?v=1NCvpZDtTMI <br>
+[Brackeys].(2017, Dec, 20). Pause menu in unity [Video File]. Retrieved from https://www.youtube.com/watch?v=JivuXdrIHK0&t=459s <br>
+           (2017, May. 31). Introdution to audio in unity [Video File]. Retrieved from https://www.youtube.com/watch?v=6OT43pvUyfY&t=236s <br>
 
 ### Music Credits
 Sonatina for Piano and Cello by Martijn de Boer (NiGiD) (c) copyright 2020 Licensed under a Creative Commons Attribution Noncommercial  (3.0) license. http://dig.ccmixter.org/files/NiGiD/61232 Ft: Doxent Zsigmond
