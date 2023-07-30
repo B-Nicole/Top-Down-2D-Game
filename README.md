@@ -1,18 +1,15 @@
-# Dungeons and Dragons Character UI
+# Top Down 2D Game
 ### Author: Brittany Hughes 
 ### Art: Brittany Hughes (except the background)
 <u>
-Objective: To create a working UI that generates a DnD character
+Objective: To create a 2D game with interaction, ai, and scene transition
 
-Challenges: Figuring out the singleton and how to store the users choice
+Challenges: Figuring out the enemy ai and camera work
 
 ### Process:  
-I began by blocking out the basic layout of the game in my sketchbook which helped me generate the overall flow. <br> I then began to flesh out the basic scenes in Unity. The buttons contained plain text and a simple black background. I used a tutorial from Brackys- [Bracky's tutorial](https://youtu.be/CE9VOZivb3I) - for scene changing to wire the buttons to each scene. <br> For the rolls I used the list data structure to store each of the five rolls taking the sum of the highest three while adding a +2 modfyer. Once I had the basic layout I began to work on the art in [clip studio paint.](https://www.clipstudio.net/en/)<br> I exported each image in PNG format with a transparent background. I then transferred each image onto a button. For the background I grabbed one from google images. For the Json file, while I was able to get it to output I was not able to copy and paste it. When I tried to tinker with it, the button to generate the file disappeared so I decided to leave it for the time being.
 
 ### What I learned: 
-How to break up a task in stages writing out ideas then fleshing them out to meat a goal. 
-Connecting buttons for scene transitions
-Visual art 
+ 
 
 ## Images
 ### Title Card
@@ -28,7 +25,7 @@ Visual art
 <img src = "https://github.com/B-Nicole/Unity_2D-Project/assets/43286085/f6e59a34-14aa-4c41-be2f-aad124f5f8ee" width="200" height="200">
 
 ### Other Character
-<img src = "https://github.com/B-Nicole/Unity_2D-Project/assets/43286085/c0e55d05-63b5-4301-b967-b7ad7266eddf" width="200" height="200">
+<img src = "https://github.com/B-Nicole/Unity_2D-Project/assets/43286085/c0e55d05-63b5-4301-b967-b7ad7266eddf" width="200" height="150">
 
 ### Enemies
 <img src = "https://github.com/B-Nicole/Unity_2D-Project/assets/43286085/9c6ef8c6-f2ee-4977-bef9-505e51dc53cf" width="200" height="200">
@@ -39,15 +36,48 @@ Visual art
 <img src = "https://github.com/B-Nicole/Unity_2D-Project/assets/43286085/dedf90c4-86ea-44f6-b04a-7af8841d94f9" width="200" height="200">
 
 
+### Bug Log
+ The camera of the Bedroom level moves dont know why it happened as I was doing the pause menu
+ Dagger pushing player back when button is hit
+ Dagger isn't changing position as character changes position 
 
+ Camera isnt being attached to the player when outside scene is activated --------> Resolved
+ Sheild - removed component
+ ? is not activating ----> removed component
+ Player isn't taking damage ---> Resolved march 10th  
+ Signs can not be read ---> Resolved march 10th 
+ Enemy isn't shooting ----> Resolved march 9th 
+ 
 # How to use
 clone the repository
 Open the folder and click on the folder that says FinalBuilds
 Open the folder that corresponds to your operating system
 
 #### Supported Opperating Systems
-Linux
-MacOS
-Windows 32
-Windows 
+<ul>
+<li>Linux</li>  
+<li>MacOS
+<li>Windows 32
+<li>Windows 
+</ul>
 
+## Credits/ Resources
+### Art
+Sprites Made using Piskel.com 
+Animations made using Piskel.com
+
+### Video Resources
+[Blackthornprod].(2017, Dec. 28). Shooting/Follow/Retreat Enemy AI with unity and C#- easy tutorial [Video File]. Retrieved from https://www.youtube.com/watch?v=_Z1t7MNk0c4&t=1s
+                 (2018, Aug. 27). How to make an inventory with unity & c# - beginner tutorial - 1/2 [Video File]. Retrieved from https://www.youtube.com/watch?v=DLAIYSMYy2g&t=308s
+[Comphonia].(2016, May. 12). How to Create Rolling End credits in unity with only unity UI(No code)[Video File]. Retrieved from https://www.youtube.com/watch?v=yDkZ5QIkfSc
+[Mister Taft Creates]. (2018, Dec. 3). Part30- Context clues: make a game like zelda using unity and c# [Video File]. Retrieved from https://www.youtube.com/watch?v=ct_5AvIk3vc&t=332s 
+                       (2018, Aug. 17). Part 4- Tilemaps with collisions: make a game like legend of zelda with unity and c# [Video file]. Retrieved from https://www.youtube.com/watch?v=zA8wa-L5xek 
+                       (2018, Aug. 30). Part 10 - Signs and Dialog: Make a game like the legend od zelda using unity and c# [Video File]. Retrieved from https://www.youtube.com/watch?v=1NCvpZDtTMI
+[Brackeys].(2017, Dec, 20). Pause menu in unity [Video File]. Retrieved from https://www.youtube.com/watch?v=JivuXdrIHK0&t=459s
+           (2017, May. 31). Introdution to audio in unity [Video File]. Retrieved from https://www.youtube.com/watch?v=6OT43pvUyfY&t=236s
+
+### Music Credits
+Sonatina for Piano and Cello by Martijn de Boer (NiGiD) (c) copyright 2020 Licensed under a Creative Commons Attribution Noncommercial  (3.0) license. http://dig.ccmixter.org/files/NiGiD/61232 Ft: Doxent Zsigmond
+Dee_Yan-Key_-_03_-_Goddess_of_Flowers https://freemusicarchive.org/music/Dee_Yan-Key
+Game Audio -UI SFX Teleport space morph Free Sound.org https://freesound.org/people/GameAudio/sounds/220209/
+Game Audio - UI SFX PingBing Februaty 22, 2014 https://freesound.org/people/GameAudio/sounds/220212/
